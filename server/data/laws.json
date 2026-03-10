@@ -1,0 +1,242 @@
+[
+  {
+    "id": "constitution/宪法",
+    "name": "中华人民共和国宪法",
+    "nameShort": "宪法",
+    "category": "宪法",
+    "categoryId": "constitution",
+    "totalArticles": 143,
+    "effectiveDate": "2018-03-11",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "civil-and-commercial/民法典",
+    "name": "中华人民共和国民法典",
+    "nameShort": "民法典",
+    "category": "民商法",
+    "categoryId": "civil-and-commercial",
+    "totalArticles": 1258,
+    "effectiveDate": "2021-01-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "civil-and-commercial/公司法",
+    "name": "中华人民共和国公司法",
+    "nameShort": "公司法",
+    "category": "民商法",
+    "categoryId": "civil-and-commercial",
+    "totalArticles": 218,
+    "effectiveDate": "2024-07-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "civil-and-commercial/著作权法",
+    "name": "中华人民共和国著作权法",
+    "nameShort": "著作权法",
+    "category": "民商法",
+    "categoryId": "civil-and-commercial",
+    "totalArticles": 67,
+    "effectiveDate": "2021-06-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "civil-and-commercial/专利法",
+    "name": "中华人民共和国专利法",
+    "nameShort": "专利法",
+    "category": "民商法",
+    "categoryId": "civil-and-commercial",
+    "totalArticles": 82,
+    "effectiveDate": "2021-06-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "civil-and-commercial/消费者权益保护法",
+    "name": "中华人民共和国消费者权益保护法",
+    "nameShort": "消费者权益保护法",
+    "category": "民商法",
+    "categoryId": "civil-and-commercial",
+    "totalArticles": 63,
+    "effectiveDate": "2014-03-15",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "criminal-law/刑法",
+    "name": "中华人民共和国刑法",
+    "nameShort": "刑法",
+    "category": "刑法",
+    "categoryId": "criminal-law",
+    "totalArticles": 453,
+    "effectiveDate": "2021-03-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "criminal-law/反有组织犯罪法",
+    "name": "中华人民共和国反有组织犯罪法",
+    "nameShort": "反有组织犯罪法",
+    "category": "刑法",
+    "categoryId": "criminal-law",
+    "totalArticles": 77,
+    "effectiveDate": "2022-05-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "economic/个人所得税法",
+    "name": "中华人民共和国个人所得税法",
+    "nameShort": "个人所得税法",
+    "category": "经济法",
+    "categoryId": "economic",
+    "totalArticles": 22,
+    "effectiveDate": "2019-01-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "economic/反垄断法",
+    "name": "中华人民共和国反垄断法",
+    "nameShort": "反垄断法",
+    "category": "经济法",
+    "categoryId": "economic",
+    "totalArticles": 70,
+    "effectiveDate": "2022-08-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "economic/网络安全法",
+    "name": "中华人民共和国网络安全法",
+    "nameShort": "网络安全法",
+    "category": "经济法",
+    "categoryId": "economic",
+    "totalArticles": 79,
+    "effectiveDate": "2017-06-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "economic/数据安全法",
+    "name": "中华人民共和国数据安全法",
+    "nameShort": "数据安全法",
+    "category": "经济法",
+    "categoryId": "economic",
+    "totalArticles": 55,
+    "effectiveDate": "2021-09-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "economic/个人信息保护法",
+    "name": "中华人民共和国个人信息保护法",
+    "nameShort": "个人信息保护法",
+    "category": "经济法",
+    "categoryId": "economic",
+    "totalArticles": 74,
+    "effectiveDate": "2021-11-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "economic/企业所得税法",
+    "name": "中华人民共和国企业所得税法",
+    "nameShort": "企业所得税法",
+    "category": "经济法",
+    "categoryId": "economic",
+    "totalArticles": 60,
+    "effectiveDate": "2019-04-23",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "economic/产品质量法",
+    "name": "中华人民共和国产品质量法",
+    "nameShort": "产品质量法",
+    "category": "经济法",
+    "categoryId": "economic",
+    "totalArticles": 74,
+    "effectiveDate": "2018-12-29",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "procedural/民事诉讼法",
+    "name": "中华人民共和国民事诉讼法",
+    "nameShort": "民事诉讼法",
+    "category": "诉讼法",
+    "categoryId": "procedural",
+    "totalArticles": 291,
+    "effectiveDate": "2022-01-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "procedural/刑事诉讼法",
+    "name": "中华人民共和国刑事诉讼法",
+    "nameShort": "刑事诉讼法",
+    "category": "诉讼法",
+    "categoryId": "procedural",
+    "totalArticles": 307,
+    "effectiveDate": "2018-10-26",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "procedural/行政诉讼法",
+    "name": "中华人民共和国行政诉讼法",
+    "nameShort": "行政诉讼法",
+    "category": "诉讼法",
+    "categoryId": "procedural",
+    "totalArticles": 103,
+    "effectiveDate": "2017-06-27",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "social/劳动法",
+    "name": "中华人民共和国劳动法",
+    "nameShort": "劳动法",
+    "category": "社会法",
+    "categoryId": "social",
+    "totalArticles": 107,
+    "effectiveDate": "2018-12-29",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "social/未成年人保护法",
+    "name": "中华人民共和国未成年人保护法",
+    "nameShort": "未成年人保护法",
+    "category": "社会法",
+    "categoryId": "social",
+    "totalArticles": 132,
+    "effectiveDate": "2021-06-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "social/安全生产法",
+    "name": "中华人民共和国安全生产法",
+    "nameShort": "安全生产法",
+    "category": "社会法",
+    "categoryId": "social",
+    "totalArticles": 119,
+    "effectiveDate": "2021-09-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "administrative/行政处罚法",
+    "name": "中华人民共和国行政处罚法",
+    "nameShort": "行政处罚法",
+    "category": "行政法",
+    "categoryId": "administrative",
+    "totalArticles": 86,
+    "effectiveDate": "2021-07-15",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "administrative/环境保护法",
+    "name": "中华人民共和国环境保护法",
+    "nameShort": "环境保护法",
+    "category": "行政法",
+    "categoryId": "administrative",
+    "totalArticles": 70,
+    "effectiveDate": "2015-01-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  },
+  {
+    "id": "administrative/治安管理处罚法",
+    "name": "中华人民共和国治安管理处罚法",
+    "nameShort": "治安管理处罚法",
+    "category": "行政法",
+    "categoryId": "administrative",
+    "totalArticles": 119,
+    "effectiveDate": "2013-01-01",
+    "source": "https://github.com/ImCa0/just-laws"
+  }
+]
