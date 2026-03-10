@@ -27,6 +27,7 @@ export class LawStorage implements IStorage {
   private loadData() {
     const dir = path.dirname(fileURLToPath(import.meta.url));
     const articlesPath = path.join(dir, "data", "articles.json");
+      const articlesPartsExist = !fs.existsSync(articlesPath) && fs.existsSync(path.join(dir, "data", "articles_p0.json"));
     const lawsPath = path.join(dir, "data", "laws.json");
 
     if (fs.existsSync(articlesPath)) {
